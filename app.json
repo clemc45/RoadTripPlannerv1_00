@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "RoadTripPlannerv1_00",
+    "slug": "RoadTripPlannerv1_00",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
