@@ -1,0 +1,27 @@
+{
+    "modalContainer": {
+        "backgroundColor": "white",
+        "borderRadius": 10,
+        "padding": 16
+    },
+    "modalTitle": {
+        "textAlign": "center",
+        "fontSize": 18,
+        "fontWeight": "bold",
+        "marginBottom": 16
+    },
+    "menuOption": {
+        "padding": 10,
+        "backgroundColor": "blue",
+        "borderRadius": 10,
+        "paddingVertical": 10
+    },
+    "menuOptionText": {
+        "textAlign": "center",
+        "fontSize": 15,
+        "color": "white"
+    },
+    "butonOption": {
+        "borderRadius": 10
+    }
+}
